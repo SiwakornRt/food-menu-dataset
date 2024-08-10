@@ -1,0 +1,15 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+basil_chicken_rice:37,159,46::
+carb:250,250,55::
+chicken_biryani:141,20,130::
+chicken_steak:223,63,186::
+curry_rice:204,96,45::
+fried_rice:149,99,168::
+mama_noodles:11,217,169::
+meat:250,50,83::
+papaya_salad:67,112,68::
+pizza:160,160,32::
+rice_porridge:196,65,69::
+sticky_rice_with_fried_chicken:16,24,82::
+veg:131,224,112::
